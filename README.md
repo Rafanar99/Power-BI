@@ -5,7 +5,7 @@ This Power BI dashboard provides a comprehensive analysis of revenue versus targ
 
 ## 🔗 Acesse o dashboard online
 
-👉 [Clique aqui para visualizar no Power BI Service]: https://app.powerbi.com/view?r=eyJrIjoiOGQyMDNkOTktMzNmMi00NTU1LWFhNzQtMGQyMjZlYTE2ODZiIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+👉 Click Here: https://app.powerbi.com/view?r=eyJrIjoiOGQyMDNkOTktMzNmMi00NTU1LWFhNzQtMGQyMjZlYTE2ODZiIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
 ---
 
