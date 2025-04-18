@@ -2,18 +2,6 @@
 
 This Power BI dashboard offers a comprehensive overview of the company's financial health, enabling stakeholders to monitor key performance indicators and make informed decisions.​
 
-## Key Features:
-
-Revenue & Profit Analysis: Visualizes total revenue, costs, expenses, and net profit, providing insights into financial performance over time.​
-
-Top 5 Clients: Identifies the top five clients contributing to revenue, helping to focus on key customer relationships.​
-
-Payments by Type: Breaks down payments received by type (e.g., credit card, bank transfer), offering a clear view of payment distribution.​
-
-Monthly Profit Trends: Displays profit trends on a monthly basis, allowing for the identification of patterns and anomalies.
-
----
-
 ## 🔗 Access the online dashboard
 
 👉 Click Here: https://app.powerbi.com/view?r=eyJrIjoiNDE4YzUyZDQtOTRkZi00NGYxLWE2OTAtMzg1Y2IyNTljMjUzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
@@ -22,10 +10,10 @@ Monthly Profit Trends: Displays profit trends on a monthly basis, allowing for t
 
 ## 🎯 Key Insights
 
-✅ Month-over-month **revenue vs target** comparison  
-✅ Performance breakdown by **product** and **sales manager**  
-✅ **Auto projections** to evaluate whether targets will be reached by the end of the month  
-✅ **Product recommendations** based on purchase patterns from similar clients (powered by Python)
+✅ Revenue & Profit Analysis: Visualizes total revenue, costs, expenses, and net profit, providing insights into financial performance over time.​
+✅ Top 5 Clients: Identifies the top five clients contributing to revenue, helping to focus on key customer relationships.​ 
+✅ Payments by Type: Breaks down payments received by type (e.g., credit card, bank transfer), offering a clear view of payment distribution.​ 
+✅ Monthly Profit Trends: Displays profit trends on a monthly basis, allowing for the identification of patterns and anomalies.
 
 ---
 
